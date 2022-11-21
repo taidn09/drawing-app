@@ -24,6 +24,7 @@ body {
 section {
     background-color: #fff;
     border-radius: 7px;
+    overflow: hidden;
 }
 
 .tools-board {
